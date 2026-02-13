@@ -1,0 +1,12 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCad Symbols")(type "KiCad")(uri "/home/laptop-2/KiCAD/kicad-symbols")(options "")(descr ""))
+  (lib (name "KiCad 3D Symbols")(type "KiCad")(uri "/home/laptop-2/KiCAD/kicad-packages3D")(options "")(descr ""))
+  (lib (name "KiCad 3D Symbols Source")(type "KiCad")(uri "/home/laptop-2/KiCAD/kicad-packages3D-source")(options "")(descr ""))
+  (lib (name "KiCad Templates")(type "KiCad")(uri "/home/laptop-2/KiCAD/kicad-templates")(options "")(descr ""))
+  (lib (name "Berry_IMU")(type "KiCad")(uri "${KIPRJMOD}/Berry_IMU/Berry_IMU.pretty")(options "PLEASE SOHOW THIS FOOTPRINT THANKS")(descr ""))
+  (lib (name "JST Connector")(type "KiCad")(uri "${KIPRJMOD}/JST Connector")(options "")(descr ""))
+  (lib (name "PINS")(type "KiCad")(uri "${KIPRJMOD}/Pins")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/JST Connector/S8B_PH_K_S/KiCADv6/footprints.pretty/Library.pretty")(options "")(descr ""))
+  (lib (name "Mounting Holes")(type "KiCad")(uri "${KIPRJMOD}/Mounting Holes/Mounting Holes.pretty")(options "")(descr ""))
+)
