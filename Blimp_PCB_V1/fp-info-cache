@@ -1,4 +1,4 @@
-27245597499975766
+27247369548200650
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -70391,6 +70391,13 @@ connector JST SH horizontal
 0
 10
 9
+JST Connector
+JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical
+JST XH series connector, B4B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH vertical
+0
+4
+4
 JST Connector
 S3B-PH-K-S
 
