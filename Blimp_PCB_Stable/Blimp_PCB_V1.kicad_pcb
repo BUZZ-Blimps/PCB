@@ -2218,15 +2218,15 @@
 			(uuid "926b0fe7-d172-49ff-b62c-df36170cdaac")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/Stable Library/XT30/XT30-F_m.ver.STEP"
+		(model "${KIPRJMOD}/Stable Library/XT30/XT30Model.stp"
 			(offset
-				(xyz -5.5 -7.5 0)
+				(xyz 0 -3.5 2.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 90)
+				(xyz -0 -0 180)
 			)
 		)
 	)
