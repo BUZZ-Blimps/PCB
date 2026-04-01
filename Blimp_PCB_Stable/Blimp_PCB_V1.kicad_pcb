@@ -1746,7 +1746,7 @@
 				)
 			)
 		)
-		(property "Value" "7.5K"
+		(property "Value" "7.5KΩ"
 			(at 0 -1.2 0)
 			(layer "F.Fab")
 			(uuid "c3c4c630-f6b9-4502-acea-5762c917ec47")
@@ -2292,7 +2292,7 @@
 	(footprint "Berry_IMU:Berry_IMU"
 		(layer "F.Cu")
 		(uuid "892bbe6c-352d-4e0f-a804-9894293f14a1")
-		(at 125.0159 52.6902)
+		(at 125.0159 91.6902)
 		(property "Reference" "U2"
 			(at 0 -14 0)
 			(unlocked yes)
@@ -2604,6 +2604,17 @@
 			(uuid "e5ecc0e1-a33e-49c2-9296-2b2d3900a99e")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Stable Library/Berry_IMU/BerryIMUv3.8.step"
+			(offset
+				(xyz -1.6 3 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -90)
+			)
+		)
 	)
 	(footprint "Buzz_Burn:Sahaj"
 		(layer "F.Cu")
@@ -23224,7 +23235,7 @@
 				)
 			)
 		)
-		(property "Value" "30K"
+		(property "Value" "30KΩ"
 			(at 0 1.25 0)
 			(layer "F.Fab")
 			(uuid "acd75dc7-ae26-4abd-9a95-15e810daf30b")
