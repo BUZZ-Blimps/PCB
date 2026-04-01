@@ -2346,45 +2346,16 @@
 		(sheetname "/")
 		(sheetfile "Blimp_PCB_V1.kicad_sch")
 		(attr through_hole)
-		(fp_line
-			(start -18.8341 -13.0302)
-			(end -18.8341 13.0302)
+		(fp_rect
+			(start -18.5 -13)
+			(end 18.5 13)
 			(stroke
 				(width 0.1)
-				(type default)
+				(type solid)
 			)
+			(fill no)
 			(layer "F.SilkS")
-			(uuid "b9627b3c-8838-4010-a922-0773ba9c6ddd")
-		)
-		(fp_line
-			(start -18.8341 -13.0302)
-			(end 18.8341 -13.0302)
-			(stroke
-				(width 0.1)
-				(type default)
-			)
-			(layer "F.SilkS")
-			(uuid "16742cd5-5d69-4008-aa62-a62b7037e1a8")
-		)
-		(fp_line
-			(start -18.8341 13.0302)
-			(end 18.8341 13.0302)
-			(stroke
-				(width 0.1)
-				(type default)
-			)
-			(layer "F.SilkS")
-			(uuid "7e76ac59-400c-4692-9dfa-470e00ff8e4a")
-		)
-		(fp_line
-			(start 18.8341 -13.0302)
-			(end 18.8341 12.9698)
-			(stroke
-				(width 0.1)
-				(type default)
-			)
-			(layer "F.SilkS")
-			(uuid "f12953d2-023a-4ae1-9cff-f1723bf447ec")
+			(uuid "b6a2ff55-6bc7-4a64-a396-95d1193bbc22")
 		)
 		(pad "1" thru_hole circle
 			(at 11.0641 -11.1902)
@@ -2602,6 +2573,29 @@
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
 			(uuid "e5ecc0e1-a33e-49c2-9296-2b2d3900a99e")
+		)
+		(group ""
+			(uuid "084df468-e249-4d0a-8be9-1e5756fbf040")
+			(members "43b9b2f4-9345-4c9c-880b-49de3ff1cc82" "65ad5a35-345e-4c1c-a4ce-4cabfce4b752"
+				"7cdd6b9a-f2b2-4da5-8344-d880a41e3bd6" "7e45a23c-6d3e-47b0-85b2-772bfb3763da"
+				"a1fd6d74-fe08-4b24-998b-a1fd431e2f77" "cf832b08-a3e4-44e2-bf72-089555f32983"
+				"ff62544b-6865-48c8-ab8d-8694be0efaac"
+			)
+		)
+		(group ""
+			(uuid "98be5a82-1a3d-491b-904a-5f9129f3b2b5")
+			(members "0f563a05-6320-46a8-ae9d-8c4661363523" "350f38ff-c994-4e3c-9160-57d998bd69da"
+				"3cd4dd8f-fccb-45b6-8330-0a9ccbda748d" "6fb48c12-eb74-4146-b5bf-da3a8a926a86"
+				"ab288103-d294-4aa0-b6ae-e2d1fd5eab78" "d0d1ce1c-8709-4b20-a70e-50bad30b671e"
+			)
+		)
+		(group ""
+			(uuid "bd039aaf-5bc3-4387-800c-e015c427b394")
+			(members "22054e14-e955-4eab-ac7a-8a9c3d802be6" "2f176a6b-6b4f-477b-b8f9-b0552b109146"
+				"4a8d974c-f769-4649-946b-59272f8564e3" "5ce3388c-2663-42c6-bb8e-6331fff65360"
+				"a39ac7ce-b2cd-4a80-8d2a-7124c2c2450a" "e5ecc0e1-a33e-49c2-9296-2b2d3900a99e"
+				"ea46f3ec-5316-434b-9b49-2de8ea4aa5fd"
+			)
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Stable Library/Berry_IMU/BerryIMUv3.8.step"
