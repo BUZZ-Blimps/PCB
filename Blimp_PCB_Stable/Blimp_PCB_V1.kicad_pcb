@@ -24457,7 +24457,6 @@
 		(property "Value" "100uF"
 			(at 0 -1.43 0)
 			(layer "B.Fab")
-			(hide yes)
 			(uuid "59263f0c-b8fe-473d-8545-288ccd3971e9")
 			(effects
 				(font
