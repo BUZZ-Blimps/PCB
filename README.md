@@ -1,2 +1,2 @@
-# PCB
-Blimp PCB V2
+# DEPRECATED
+Please do not use or merge this branch. It will break everything.
