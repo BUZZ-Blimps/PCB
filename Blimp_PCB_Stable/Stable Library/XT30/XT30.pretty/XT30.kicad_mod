@@ -1,0 +1,152 @@
+(footprint "XT30"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "B1"
+		(at 0.294 -1.846 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4b97d3a3-627b-482d-8b8b-520af09a68b0")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.13)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 0 10 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ec19ae2f-8d82-43b5-8008-5c7c4c9d4af6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.13)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 10 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "07ac86ca-2876-4398-abb1-8e6e37713dd3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.13)
+			)
+		)
+	)
+	(property "Description" "XT30 BV input"
+		(at -0.025 4.1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5c6ec7e3-da72-40b9-b5ea-a334f590c7ca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.13)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_text user "BV"
+		(at -3.5 10.25 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "19f8eb91-ec81-400b-8582-c415f674eda6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.13)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "GND"
+		(at 1 10.3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "629a34ba-67f6-47e2-80da-9784d3cac8d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.13)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "BV"
+		(at -1.4 10.25 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "910decbf-b219-4358-80ce-b8ed6996b700")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.13)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(fp_text user "GND"
+		(at 4.1 10.3 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "919f53d2-01ce-4829-9c6a-f28b11e9ae5b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.13)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 5.6 -2.5)
+		(size 1.524 1.524)
+		(drill 1.27)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ed19e5dc-ae1a-4378-9719-d6e25f75550c")
+	)
+	(pad "2" thru_hole circle
+		(at -5.6 -2.5)
+		(size 1.524 1.524)
+		(drill 1.27)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0c4fa398-1aad-4a2f-aeec-8d133d0c0047")
+	)
+	(pad "3" thru_hole rect
+		(at -2.5 7.45)
+		(size 2.74 2.74)
+		(drill 1.905)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a50165cb-a384-48f5-a10e-7a918e428063")
+	)
+	(pad "4" thru_hole circle
+		(at 2.5 7.45)
+		(size 2.74 2.74)
+		(drill 1.905)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c670c4ec-eb0d-49ff-b9cf-b21eb9d938bf")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Stable Library/XT30/XT30Model.stp"
+		(offset
+			(xyz 0 -3.5 2.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 180)
+		)
+	)
+)

@@ -10,7 +10,7 @@
 		(rev "v01")
 	)
 	(lib_symbols
-		(symbol "Berry_IMU_1"
+		(symbol "Berry_IMU:Berry_IMU"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -30,7 +30,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Berry_IMU:Berry_IMU"
 				(at 0 0 0)
 				(effects
 					(font
@@ -48,16 +48,15 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "IMU"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
-			(symbol "Berry_IMU_1_0_1"
+			(symbol "Berry_IMU_0_1"
 				(rectangle
 					(start -10.16 11.43)
 					(end 10.16 -16.51)
@@ -70,7 +69,7 @@
 					)
 				)
 			)
-			(symbol "Berry_IMU_1_1_1"
+			(symbol "Berry_IMU_1_1"
 				(pin input line
 					(at -12.7 5.08 0)
 					(length 2.54)
@@ -2606,7 +2605,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "S4B_XH_A:JST_S4B-XH-A"
+			(property "Footprint" "S4B-XH-A:JST_S4B-XH-A"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2625,13 +2624,12 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
+			(property "Description" "To Lidar"
+				(at 3.302 -3.81 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
 			(property "MANUFACTURER" "JST"
@@ -2645,17 +2643,6 @@
 				)
 			)
 			(symbol "S4B-XH-A_0_0"
-				(rectangle
-					(start -6.35 6.35)
-					(end -1.27 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
 				(rectangle
 					(start -5.715 4.7625)
 					(end -4.1275 5.3975)
@@ -2770,6 +2757,19 @@
 								(size 1.016 1.016)
 							)
 						)
+					)
+				)
+			)
+			(symbol "S4B-XH-A_1_0"
+				(rectangle
+					(start -6.35 7.62)
+					(end -1.27 -5.08)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
 					)
 				)
 			)
@@ -3569,10 +3569,10 @@
 		(uuid "68af8b39-34e1-402c-be34-e6702fdda3b2")
 	)
 	(junction
-		(at 152.4 110.49)
+		(at 152.4 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7228b829-ff3b-4373-b728-f838b0dccaa6")
+		(uuid "6b45d2da-cb31-413c-a9dc-f584a79fc6ee")
 	)
 	(junction
 		(at 218.44 107.95)
@@ -3985,7 +3985,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 137.16) (xy 173.99 115.57)
+			(xy 173.99 137.16) (xy 173.99 116.84)
 		)
 		(stroke
 			(width 0)
@@ -4007,7 +4007,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 110.49) (xy 177.8 110.49)
+			(xy 152.4 111.76) (xy 177.8 111.76)
 		)
 		(stroke
 			(width 0)
@@ -4073,7 +4073,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 113.03) (xy 177.8 113.03)
+			(xy 160.02 114.3) (xy 177.8 114.3)
 		)
 		(stroke
 			(width 0)
@@ -4535,7 +4535,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 115.57) (xy 177.8 115.57)
+			(xy 173.99 116.84) (xy 177.8 116.84)
 		)
 		(stroke
 			(width 0)
@@ -4897,7 +4897,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 118.11) (xy 177.8 142.24)
+			(xy 177.8 119.38) (xy 177.8 142.24)
 		)
 		(stroke
 			(width 0)
@@ -5161,7 +5161,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 120.65) (xy 160.02 113.03)
+			(xy 160.02 120.65) (xy 160.02 114.3)
 		)
 		(stroke
 			(width 0)
@@ -6501,7 +6501,7 @@
 	)
 	(symbol
 		(lib_id "S4B-XH-A:S4B-XH-A")
-		(at 187.96 115.57 0)
+		(at 187.96 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6509,7 +6509,7 @@
 		(dnp no)
 		(uuid "cb93ab4c-08b3-4c9e-8d2d-112ff0bf82c9")
 		(property "Reference" "J2"
-			(at 187.96 112.776 0)
+			(at 187.96 114.046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6518,7 +6518,7 @@
 			)
 		)
 		(property "Value" "S4B-XH-A"
-			(at 187.452 116.332 0)
+			(at 187.452 117.602 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6526,8 +6526,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "S4B_XH_A:JST_S4B-XH-A"
-			(at 187.96 115.57 0)
+		(property "Footprint" "S4B-XH-A:JST_S4B-XH-A"
+			(at 187.96 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6537,7 +6537,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 115.57 0)
+			(at 187.96 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6546,7 +6546,7 @@
 			)
 		)
 		(property "Description" "To Lidar"
-			(at 191.262 119.38 0)
+			(at 191.262 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6554,7 +6554,7 @@
 			)
 		)
 		(property "MANUFACTURER" "JST"
-			(at 187.96 115.57 0)
+			(at 187.96 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6934,7 +6934,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Berry_IMU_1")
 		(lib_id "Berry_IMU:Berry_IMU")
 		(at 92.71 74.93 0)
 		(unit 1)

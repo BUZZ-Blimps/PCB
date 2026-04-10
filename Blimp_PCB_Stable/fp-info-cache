@@ -1,4 +1,4 @@
-27253662233211863
+27184792779407343
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -384,6 +384,13 @@ battery CR-3032 coin cell vertical
 0
 2
 2
+Berry_IMU
+Berry_IMU
+
+
+0
+19
+19
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -2568,6 +2575,13 @@ SPDT endstop limit switch vertical hook lever XKB DM1-16UP-1
 0
 3
 3
+Buzz_Burn
+Sahaj
+
+
+0
+0
+0
 Buzzer_Beeper
 Buzzer_12x9.5RM7.6
 Generic Buzzer, D12mm height 9.5mm with RM7.6mm
@@ -70342,6 +70356,13 @@ THT
 0
 4
 2
+JST Connector
+JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal
+JST XH series connector, S2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator
+connector JST XH horizontal
+0
+2
+2
 Jumper
 Jumper_Harwin_S1621_P10.9mm
 Harwin SMD jumper link, 12.3x2.3mm, 1.8mm height, 10.9mm pad pitch, https://cdn.harwin.com/pdfs/S1621R.pdf
@@ -75459,6 +75480,13 @@ IR Reflective Optical Sensor with Transistor Output TCRT5000 Vishay Distance Sen
 0
 4
 4
+Orange_Pi_5B
+Orange_Pi_5B
+
+
+0
+26
+26
 Oscillator
 Oscillator_DIP-8
 Oscillator, DIP8,http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf
@@ -100807,320 +100835,12 @@ Logo WEEE
 0
 0
 TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm
-terminal block MaiXu MX126-5.0-02P, 2 pins, pitch 5mm, size 10.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-02P pitch 5mm size 10.5x7.8mm drill 1.3mm pad 2.8mm
+TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal
+Terminal Block Phoenix MKDS-1,5-2, 2 pins, pitch 5mm, size 10x9.8mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/100425.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Phoenix
+THT Terminal Block Phoenix MKDS-1,5-2 pitch 5mm size 10x9.8mm drill 1.3mm pad 2.6mm
 0
 2
 2
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-03P_1x03_P5.00mm
-terminal block MaiXu MX126-5.0-03P, 3 pins, pitch 5mm, size 15.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-03P pitch 5mm size 15.5x7.8mm drill 1.3mm pad 2.8mm
-0
-3
-3
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-04P_1x04_P5.00mm
-terminal block MaiXu MX126-5.0-04P, 4 pins, pitch 5mm, size 20.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-04P pitch 5mm size 20.5x7.8mm drill 1.3mm pad 2.8mm
-0
-4
-4
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-05P_1x05_P5.00mm
-terminal block MaiXu MX126-5.0-05P, 5 pins, pitch 5mm, size 25.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-05P pitch 5mm size 25.5x7.8mm drill 1.3mm pad 2.8mm
-0
-5
-5
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-06P_1x06_P5.00mm
-terminal block MaiXu MX126-5.0-06P, 6 pins, pitch 5mm, size 30.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-06P pitch 5mm size 30.5x7.8mm drill 1.3mm pad 2.8mm
-0
-6
-6
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-07P_1x07_P5.00mm
-terminal block MaiXu MX126-5.0-07P, 7 pins, pitch 5mm, size 35.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-07P pitch 5mm size 35.5x7.8mm drill 1.3mm pad 2.8mm
-0
-7
-7
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-08P_1x08_P5.00mm
-terminal block MaiXu MX126-5.0-08P, 8 pins, pitch 5mm, size 40.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-08P pitch 5mm size 40.5x7.8mm drill 1.3mm pad 2.8mm
-0
-8
-8
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-09P_1x09_P5.00mm
-terminal block MaiXu MX126-5.0-09P, 9 pins, pitch 5mm, size 45.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-09P pitch 5mm size 45.5x7.8mm drill 1.3mm pad 2.8mm
-0
-9
-9
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-10P_1x10_P5.00mm
-terminal block MaiXu MX126-5.0-10P, 10 pins, pitch 5mm, size 50.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-10P pitch 5mm size 50.5x7.8mm drill 1.3mm pad 2.8mm
-0
-10
-10
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-11P_1x11_P5.00mm
-terminal block MaiXu MX126-5.0-11P, 11 pins, pitch 5mm, size 55.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-11P pitch 5mm size 55.5x7.8mm drill 1.3mm pad 2.8mm
-0
-11
-11
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-12P_1x12_P5.00mm
-terminal block MaiXu MX126-5.0-12P, 12 pins, pitch 5mm, size 60.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-12P pitch 5mm size 60.5x7.8mm drill 1.3mm pad 2.8mm
-0
-12
-12
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-13P_1x13_P5.00mm
-terminal block MaiXu MX126-5.0-13P, 13 pins, pitch 5mm, size 65.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-13P pitch 5mm size 65.5x7.8mm drill 1.3mm pad 2.8mm
-0
-13
-13
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-14P_1x14_P5.00mm
-terminal block MaiXu MX126-5.0-14P, 14 pins, pitch 5mm, size 70.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-14P pitch 5mm size 70.5x7.8mm drill 1.3mm pad 2.8mm
-0
-14
-14
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-15P_1x15_P5.00mm
-terminal block MaiXu MX126-5.0-15P, 15 pins, pitch 5mm, size 75.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-15P pitch 5mm size 75.5x7.8mm drill 1.3mm pad 2.8mm
-0
-15
-15
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-16P_1x16_P5.00mm
-terminal block MaiXu MX126-5.0-16P, 16 pins, pitch 5mm, size 80.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-16P pitch 5mm size 80.5x7.8mm drill 1.3mm pad 2.8mm
-0
-16
-16
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-17P_1x17_P5.00mm
-terminal block MaiXu MX126-5.0-17P, 17 pins, pitch 5mm, size 85.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-17P pitch 5mm size 85.5x7.8mm drill 1.3mm pad 2.8mm
-0
-17
-17
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-18P_1x18_P5.00mm
-terminal block MaiXu MX126-5.0-18P, 18 pins, pitch 5mm, size 90.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-18P pitch 5mm size 90.5x7.8mm drill 1.3mm pad 2.8mm
-0
-18
-18
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-19P_1x19_P5.00mm
-terminal block MaiXu MX126-5.0-19P, 19 pins, pitch 5mm, size 95.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-19P pitch 5mm size 95.5x7.8mm drill 1.3mm pad 2.8mm
-0
-19
-19
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-20P_1x20_P5.00mm
-terminal block MaiXu MX126-5.0-20P, 20 pins, pitch 5mm, size 100x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-20P pitch 5mm size 100x7.8mm drill 1.3mm pad 2.8mm
-0
-20
-20
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-21P_1x21_P5.00mm
-terminal block MaiXu MX126-5.0-21P, 21 pins, pitch 5mm, size 106x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-21P pitch 5mm size 106x7.8mm drill 1.3mm pad 2.8mm
-0
-21
-21
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-22P_1x22_P5.00mm
-terminal block MaiXu MX126-5.0-22P, 22 pins, pitch 5mm, size 110x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-22P pitch 5mm size 110x7.8mm drill 1.3mm pad 2.8mm
-0
-22
-22
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-23P_1x23_P5.00mm
-terminal block MaiXu MX126-5.0-23P, 23 pins, pitch 5mm, size 116x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-23P pitch 5mm size 116x7.8mm drill 1.3mm pad 2.8mm
-0
-23
-23
-TerminalBlock
-TerminalBlock_MaiXu_MX126-5.0-24P_1x24_P5.00mm
-terminal block MaiXu MX126-5.0-24P, 24 pins, pitch 5mm, size 120x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
-THT terminal block MaiXu MX126-5.0-24P pitch 5mm size 120x7.8mm drill 1.3mm pad 2.8mm
-0
-24
-24
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-2P, 2 pins, pitch 2.54mm, size 5.58x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-2P pitch 2.54mm size 5.58x6.5mm drill 1.2mm pad 2mm
-0
-2
-2
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-3P_1x03_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-3P, 3 pins, pitch 2.54mm, size 8.12x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-3P pitch 2.54mm size 8.12x6.5mm drill 1.2mm pad 2mm
-0
-3
-3
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-4P_1x04_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-4P, 4 pins, pitch 2.54mm, size 10.7x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-4P pitch 2.54mm size 10.7x6.5mm drill 1.2mm pad 2mm
-0
-4
-4
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-5P_1x05_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-5P, 5 pins, pitch 2.54mm, size 13.2x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-5P pitch 2.54mm size 13.2x6.5mm drill 1.2mm pad 2mm
-0
-5
-5
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-6P_1x06_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-6P, 6 pins, pitch 2.54mm, size 15.7x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-6P pitch 2.54mm size 15.7x6.5mm drill 1.2mm pad 2mm
-0
-6
-6
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-7P_1x07_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-7P, 7 pins, pitch 2.54mm, size 18.3x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-7P pitch 2.54mm size 18.3x6.5mm drill 1.2mm pad 2mm
-0
-7
-7
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-8P_1x08_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-8P, 8 pins, pitch 2.54mm, size 20.8x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-8P pitch 2.54mm size 20.8x6.5mm drill 1.2mm pad 2mm
-0
-8
-8
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-9P_1x09_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-9P, 9 pins, pitch 2.54mm, size 23.4x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-9P pitch 2.54mm size 23.4x6.5mm drill 1.2mm pad 2mm
-0
-9
-9
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-10P_1x10_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-10P, 10 pins, pitch 2.54mm, size 25.9x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-10P pitch 2.54mm size 25.9x6.5mm drill 1.2mm pad 2mm
-0
-10
-10
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-11P_1x11_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-11P, 11 pins, pitch 2.54mm, size 28.4x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-11P pitch 2.54mm size 28.4x6.5mm drill 1.2mm pad 2mm
-0
-11
-11
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-12P_1x12_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-12P, 12 pins, pitch 2.54mm, size 31x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-12P pitch 2.54mm size 31x6.5mm drill 1.2mm pad 2mm
-0
-12
-12
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-13P_1x13_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-13P, 13 pins, pitch 2.54mm, size 33.5x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-13P pitch 2.54mm size 33.5x6.5mm drill 1.2mm pad 2mm
-0
-13
-13
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-14P_1x14_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-14P, 14 pins, pitch 2.54mm, size 36.1x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-14P pitch 2.54mm size 36.1x6.5mm drill 1.2mm pad 2mm
-0
-14
-14
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-15P_1x15_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-15P, 15 pins, pitch 2.54mm, size 38.6x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-15P pitch 2.54mm size 38.6x6.5mm drill 1.2mm pad 2mm
-0
-15
-15
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-16P_1x16_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-16P, 16 pins, pitch 2.54mm, size 41.1x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-16P pitch 2.54mm size 41.1x6.5mm drill 1.2mm pad 2mm
-0
-16
-16
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-17P_1x17_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-17P, 17 pins, pitch 2.54mm, size 43.7x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-17P pitch 2.54mm size 43.7x6.5mm drill 1.2mm pad 2mm
-0
-17
-17
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-18P_1x18_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-18P, 18 pins, pitch 2.54mm, size 46.2x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-18P pitch 2.54mm size 46.2x6.5mm drill 1.2mm pad 2mm
-0
-18
-18
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-19P_1x19_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-19P, 19 pins, pitch 2.54mm, size 48.8x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-19P pitch 2.54mm size 48.8x6.5mm drill 1.2mm pad 2mm
-0
-19
-19
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-20P_1x20_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-20P, 20 pins, pitch 2.54mm, size 51.3x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-20P pitch 2.54mm size 51.3x6.5mm drill 1.2mm pad 2mm
-0
-20
-20
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-21P_1x21_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-21P, 21 pins, pitch 2.54mm, size 53.8x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-21P pitch 2.54mm size 53.8x6.5mm drill 1.2mm pad 2mm
-0
-21
-21
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-22P_1x22_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-22P, 22 pins, pitch 2.54mm, size 56.4x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-22P pitch 2.54mm size 56.4x6.5mm drill 1.2mm pad 2mm
-0
-22
-22
-TerminalBlock
-TerminalBlock_Xinya_XY308-2.54-23P_1x23_P2.54mm_Horizontal
-Terminal Block Xinya XY308-2.54-23P, 23 pins, pitch 2.54mm, size 58.9x6.5mm, drill diameter 1.2mm, pad diameter 2mm, http://www.xinyaelectronic.com/product/xy308-254, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_Xinya
-THT Terminal Block Xinya XY308-2.54-23P pitch 2.54mm size 58.9x6.5mm drill 1.2mm pad 2mm
-0
-23
-23
 TerminalBlock_4Ucon
 TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal
 Terminal Block 4Ucon ItemNo. 19963, 2 pins, pitch 3.5mm, size 7.7x7mm, drill diameter 1.2mm, pad diameter 2.4mm, http://www.4uconnector.com/online/object/4udrawing/19963.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_4Ucon
@@ -107946,3 +107666,10 @@ Varistor VF
 0
 2
 2
+XT30
+XT30
+
+
+0
+4
+4

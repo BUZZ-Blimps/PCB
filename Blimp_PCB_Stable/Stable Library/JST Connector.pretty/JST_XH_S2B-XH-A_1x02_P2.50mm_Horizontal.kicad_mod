@@ -1,0 +1,221 @@
+(footprint "JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "JST XH series connector, S2B-XH-A (http://www.jst-mfg.com/product/pdf/eng/eXH.pdf), generated with kicad-footprint-generator")
+	(tags "connector JST XH horizontal")
+	(property "Reference" "U3"
+		(at 1.1 -4.8 0)
+		(layer "F.SilkS")
+		(uuid "a84d72ca-86de-4331-9a1c-9746dc096b27")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.13)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 1.25 10.4 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b4964a10-3fb3-4bcf-824c-89b8f5a8510c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.13)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5d84b3ad-94e1-459d-9606-16caee0dc810")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.13)
+			)
+		)
+	)
+	(property "Description" "Extra ESC"
+		(at -5.6 -2.9 0)
+		(layer "F.Fab")
+		(uuid "3a1e6aa5-670c-4273-b2e0-fce862bc4403")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.13)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.56 -2.41)
+		(end -1.14 -2.41)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3477cfa7-ba04-4f72-ac59-ee510626ba21")
+	)
+	(fp_line
+		(start -2.56 2.09)
+		(end -2.56 -2.41)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "31df075a-6a98-4960-9392-1c7b5999d562")
+	)
+	(fp_line
+		(start -2.5 2.09)
+		(end 5.06 2.09)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cba45aba-f939-4f7e-82b9-5d709958b5d4")
+	)
+	(fp_line
+		(start -0.3 -2.1)
+		(end 0.3 -2.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cc7e90aa-cbe2-47ee-8706-c1c24fb307b7")
+	)
+	(fp_line
+		(start 0 -1.5)
+		(end -0.3 -2.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "af897b2e-60e0-4311-bece-01c706506465")
+	)
+	(fp_line
+		(start 0.3 -2.1)
+		(end 0 -1.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1f23ce30-9b57-420b-996a-9814ef61ae5d")
+	)
+	(fp_line
+		(start 5.06 -2.41)
+		(end -1.14 -2.41)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4d2753d3-9d9a-4b36-9531-bce31015a13c")
+	)
+	(fp_line
+		(start 5.06 2.09)
+		(end 5.06 -2.41)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "afea4302-ead0-4dd3-a6ac-0d1631b29abc")
+	)
+	(fp_rect
+		(start -2.95 -2.81)
+		(end 5.45 2.45)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "33f5fb8c-2220-49d9-90ff-bdd0c2167546")
+	)
+	(fp_line
+		(start -0.625 2.2)
+		(end 0 1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8530a0fe-ebaf-45f8-8f84-631c52b99f22")
+	)
+	(fp_line
+		(start 0 1.2)
+		(end 0.625 2.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c693b832-82c4-4cf1-8a3e-db8d28477c80")
+	)
+	(fp_text user "GND"
+		(at 1.7 -3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8241b648-4bae-4d47-8d06-52db6e03dd23")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.13)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "GND"
+		(at 3.3 -3 0)
+		(unlocked yes)
+		(layer "B.SilkS")
+		(uuid "358fa531-73ec-4393-bf68-34e2812ad2f9")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.13)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 1.7 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.147059)
+		(uuid "ab1fea17-8cb6-429f-8ec6-afa8a1eea207")
+	)
+	(pad "2" thru_hole oval
+		(at 2.5 0)
+		(size 1.7 2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6096d978-e26b-47c3-bfe3-430911d80c96")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
