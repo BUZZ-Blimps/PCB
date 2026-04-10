@@ -1,4 +1,4 @@
-27267827120019113
+27253662233211863
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -384,20 +384,6 @@ battery CR-3032 coin cell vertical
 0
 2
 2
-Berry_IMU
-Berry_IMU
-
-
-0
-20
-20
-Blimp Library
-Orange_Pi_5B
-
-
-0
-26
-26
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -2582,34 +2568,6 @@ SPDT endstop limit switch vertical hook lever XKB DM1-16UP-1
 0
 3
 3
-Buzz_Burn
-Buzz_Burn
-
-
-0
-0
-0
-Buzz_Burn
-Buzz_Burn_15x8
-
-
-0
-0
-0
-Buzz_Burn
-Buzz_Burn_15x8_Darker
-
-
-0
-0
-0
-Buzz_Burn
-Sahaj
-
-
-0
-0
-0
 Buzzer_Beeper
 Buzzer_12x9.5RM7.6
 Generic Buzzer, D12mm height 9.5mm with RM7.6mm
@@ -70384,27 +70342,6 @@ THT
 0
 4
 2
-JST Connector
-S3B-PH-K-S
-
-
-0
-3
-3
-JST Connector
-S8B-PH-K-S
-
-
-0
-8
-8
-JST Connector
-XT30
-
-
-0
-4
-4
 Jumper
 Jumper_Harwin_S1621_P10.9mm
 Harwin SMD jumper link, 12.3x2.3mm, 1.8mm height, 10.9mm pad pitch, https://cdn.harwin.com/pdfs/S1621R.pdf
@@ -98755,6 +98692,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+S4B_XH_A
+JST_S4B-XH-A
+
+
+0
+4
+4
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf

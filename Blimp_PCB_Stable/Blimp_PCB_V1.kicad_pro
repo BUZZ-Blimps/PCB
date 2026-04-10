@@ -481,14 +481,7 @@
       "version": 4
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "unconnected-(P8-RXD.0-Pad8)": [
-        "Lidar1"
-      ],
-      "unconnected-(P8-TXD.0-Pad10)": [
-        "Lidar2"
-      ]
-    },
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
