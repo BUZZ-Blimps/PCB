@@ -5652,7 +5652,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal"
+		(property "Footprint" "JST Connector:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal"
 			(at 146.05 68.58 0)
 			(effects
 				(font
@@ -6526,7 +6526,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "S4B-XH-A:JST_S4B-XH-A"
+		(property "Footprint" "S4B_XH_A:JST_S4B-XH-A"
 			(at 187.96 116.84 0)
 			(effects
 				(font
@@ -6886,7 +6886,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "JST Connector:XT30"
+		(property "Footprint" "XT30:XT30"
 			(at 203.2 100.33 0)
 			(effects
 				(font
@@ -7076,7 +7076,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Blimp Library:Orange_Pi_5B"
+		(property "Footprint" "Orange_Pi_5B:Orange_Pi_5B"
 			(at 91.948 100.838 0)
 			(effects
 				(font
